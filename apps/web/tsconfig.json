@@ -25,6 +25,9 @@
     "paths": {
       "@/*": [
         "./src/*"
+      ],
+      "@cradle/erc721-stylus": [
+        "./src/lib/erc721-stylus/src/index.ts"
       ]
     }
   },
